@@ -1,1 +1,1 @@
-# Multivariate-Stat575
+# Analysing seed Structure using data structure
